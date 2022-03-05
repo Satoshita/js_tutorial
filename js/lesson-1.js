@@ -54,7 +54,6 @@ let x = { fruits: function() {
 console.log(x);
 
 
-
 }
 
 
